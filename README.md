@@ -5,7 +5,7 @@ I have worked on these projects during December 2020 - January 2021, on a MacBoo
 
 Please keep this in mind when reading the below comments, as certain issues came up for me because of python libraries changing or issues with running things on a MacBook. You may not run into the same issues yourself, depending on your setup.
 
-The following procjects are not included in this repo:
+The following projects are not included in this repo:
 
 ## Chapter 6
 __Zombie Dice Bots:__ Didn't want to deal with getting the game itself
